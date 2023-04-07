@@ -9,5 +9,6 @@ public class Main {
         System.out.println("GitHub提交");
         System.out.println("GitHub提交1");
         System.out.println("GitHub提交1");
+        System.out.println(" ");
     }
 }
