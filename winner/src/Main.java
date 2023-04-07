@@ -12,5 +12,6 @@ public class Main {
         System.out.println("GitHub提交3");
         System.out.println("GitHub提交5");
         System.out.println("GitHub提交5");
+        System.out.println("GitHub提交6");
     }
 }
